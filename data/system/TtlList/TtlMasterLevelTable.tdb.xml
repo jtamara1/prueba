@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TDB I_06="1" TdbType="TtlEnemyDataList">
+  <MasterLevelTable1>
+    <MasterLevel>
+      <I_00 value="1" />
+      <I_04 value="50" />
+      <I_08 value="0" />
+      <I_12 value="0" />
+      <I_16 value="12000" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="2" />
+      <I_04 value="55" />
+      <I_08 value="50" />
+      <I_12 value="50" />
+      <I_16 value="12050" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="3" />
+      <I_04 value="60" />
+      <I_08 value="105" />
+      <I_12 value="50" />
+      <I_16 value="12100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="4" />
+      <I_04 value="65" />
+      <I_08 value="165" />
+      <I_12 value="50" />
+      <I_16 value="12150" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="5" />
+      <I_04 value="75" />
+      <I_08 value="230" />
+      <I_12 value="100" />
+      <I_16 value="12250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="6" />
+      <I_04 value="85" />
+      <I_08 value="305" />
+      <I_12 value="50" />
+      <I_16 value="12300" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="7" />
+      <I_04 value="95" />
+      <I_08 value="390" />
+      <I_12 value="50" />
+      <I_16 value="12350" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="8" />
+      <I_04 value="105" />
+      <I_08 value="485" />
+      <I_12 value="50" />
+      <I_16 value="12400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="9" />
+      <I_04 value="115" />
+      <I_08 value="590" />
+      <I_12 value="50" />
+      <I_16 value="12450" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="10" />
+      <I_04 value="130" />
+      <I_08 value="705" />
+      <I_12 value="100" />
+      <I_16 value="12550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="11" />
+      <I_04 value="145" />
+      <I_08 value="835" />
+      <I_12 value="50" />
+      <I_16 value="12600" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="12" />
+      <I_04 value="160" />
+      <I_08 value="980" />
+      <I_12 value="50" />
+      <I_16 value="12650" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="13" />
+      <I_04 value="175" />
+      <I_08 value="1140" />
+      <I_12 value="50" />
+      <I_16 value="12700" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="14" />
+      <I_04 value="190" />
+      <I_08 value="1315" />
+      <I_12 value="50" />
+      <I_16 value="12750" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="15" />
+      <I_04 value="205" />
+      <I_08 value="1505" />
+      <I_12 value="150" />
+      <I_16 value="12900" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="16" />
+      <I_04 value="220" />
+      <I_08 value="1710" />
+      <I_12 value="50" />
+      <I_16 value="12950" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="17" />
+      <I_04 value="235" />
+      <I_08 value="1930" />
+      <I_12 value="50" />
+      <I_16 value="13000" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="18" />
+      <I_04 value="250" />
+      <I_08 value="2165" />
+      <I_12 value="50" />
+      <I_16 value="13050" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="19" />
+      <I_04 value="265" />
+      <I_08 value="2415" />
+      <I_12 value="50" />
+      <I_16 value="13100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="20" />
+      <I_04 value="285" />
+      <I_08 value="2680" />
+      <I_12 value="150" />
+      <I_16 value="13250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="21" />
+      <I_04 value="305" />
+      <I_08 value="2965" />
+      <I_12 value="50" />
+      <I_16 value="13300" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="22" />
+      <I_04 value="325" />
+      <I_08 value="3270" />
+      <I_12 value="50" />
+      <I_16 value="13350" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="23" />
+      <I_04 value="345" />
+      <I_08 value="3595" />
+      <I_12 value="50" />
+      <I_16 value="13400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="24" />
+      <I_04 value="365" />
+      <I_08 value="3940" />
+      <I_12 value="50" />
+      <I_16 value="13450" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="25" />
+      <I_04 value="385" />
+      <I_08 value="4305" />
+      <I_12 value="200" />
+      <I_16 value="13650" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="26" />
+      <I_04 value="405" />
+      <I_08 value="4690" />
+      <I_12 value="50" />
+      <I_16 value="13700" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="27" />
+      <I_04 value="425" />
+      <I_08 value="5095" />
+      <I_12 value="50" />
+      <I_16 value="13750" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="28" />
+      <I_04 value="445" />
+      <I_08 value="5520" />
+      <I_12 value="50" />
+      <I_16 value="13800" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="29" />
+      <I_04 value="465" />
+      <I_08 value="5965" />
+      <I_12 value="50" />
+      <I_16 value="13850" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="30" />
+      <I_04 value="500" />
+      <I_08 value="6430" />
+      <I_12 value="200" />
+      <I_16 value="14050" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="31" />
+      <I_04 value="535" />
+      <I_08 value="6930" />
+      <I_12 value="50" />
+      <I_16 value="14100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="32" />
+      <I_04 value="570" />
+      <I_08 value="7465" />
+      <I_12 value="50" />
+      <I_16 value="14150" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="33" />
+      <I_04 value="605" />
+      <I_08 value="8035" />
+      <I_12 value="50" />
+      <I_16 value="14200" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="34" />
+      <I_04 value="640" />
+      <I_08 value="8640" />
+      <I_12 value="50" />
+      <I_16 value="14250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="35" />
+      <I_04 value="675" />
+      <I_08 value="9280" />
+      <I_12 value="200" />
+      <I_16 value="14450" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="36" />
+      <I_04 value="710" />
+      <I_08 value="9955" />
+      <I_12 value="100" />
+      <I_16 value="14550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="37" />
+      <I_04 value="745" />
+      <I_08 value="10665" />
+      <I_12 value="100" />
+      <I_16 value="14650" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="38" />
+      <I_04 value="780" />
+      <I_08 value="11410" />
+      <I_12 value="100" />
+      <I_16 value="14750" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="39" />
+      <I_04 value="815" />
+      <I_08 value="12190" />
+      <I_12 value="100" />
+      <I_16 value="14850" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="40" />
+      <I_04 value="865" />
+      <I_08 value="13005" />
+      <I_12 value="200" />
+      <I_16 value="15050" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="41" />
+      <I_04 value="915" />
+      <I_08 value="13870" />
+      <I_12 value="100" />
+      <I_16 value="15150" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="42" />
+      <I_04 value="965" />
+      <I_08 value="14785" />
+      <I_12 value="100" />
+      <I_16 value="15250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="43" />
+      <I_04 value="1015" />
+      <I_08 value="15750" />
+      <I_12 value="100" />
+      <I_16 value="15350" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="44" />
+      <I_04 value="1065" />
+      <I_08 value="16765" />
+      <I_12 value="100" />
+      <I_16 value="15450" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="45" />
+      <I_04 value="1115" />
+      <I_08 value="17830" />
+      <I_12 value="200" />
+      <I_16 value="15650" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="46" />
+      <I_04 value="1165" />
+      <I_08 value="18945" />
+      <I_12 value="100" />
+      <I_16 value="15750" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="47" />
+      <I_04 value="1215" />
+      <I_08 value="20110" />
+      <I_12 value="100" />
+      <I_16 value="15850" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="48" />
+      <I_04 value="1265" />
+      <I_08 value="21325" />
+      <I_12 value="100" />
+      <I_16 value="15950" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="49" />
+      <I_04 value="1315" />
+      <I_08 value="22590" />
+      <I_12 value="100" />
+      <I_16 value="16050" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="50" />
+      <I_04 value="1365" />
+      <I_08 value="23905" />
+      <I_12 value="200" />
+      <I_16 value="16250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="51" />
+      <I_04 value="1415" />
+      <I_08 value="25270" />
+      <I_12 value="150" />
+      <I_16 value="16400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="52" />
+      <I_04 value="1465" />
+      <I_08 value="26685" />
+      <I_12 value="150" />
+      <I_16 value="16550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="53" />
+      <I_04 value="1515" />
+      <I_08 value="28150" />
+      <I_12 value="150" />
+      <I_16 value="16700" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="54" />
+      <I_04 value="1565" />
+      <I_08 value="29665" />
+      <I_12 value="150" />
+      <I_16 value="16850" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="55" />
+      <I_04 value="1615" />
+      <I_08 value="31230" />
+      <I_12 value="250" />
+      <I_16 value="17100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="56" />
+      <I_04 value="1665" />
+      <I_08 value="32845" />
+      <I_12 value="150" />
+      <I_16 value="17250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="57" />
+      <I_04 value="1715" />
+      <I_08 value="34510" />
+      <I_12 value="150" />
+      <I_16 value="17400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="58" />
+      <I_04 value="1765" />
+      <I_08 value="36225" />
+      <I_12 value="150" />
+      <I_16 value="17550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="59" />
+      <I_04 value="1815" />
+      <I_08 value="37990" />
+      <I_12 value="150" />
+      <I_16 value="17700" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="60" />
+      <I_04 value="1865" />
+      <I_08 value="39805" />
+      <I_12 value="250" />
+      <I_16 value="17950" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="61" />
+      <I_04 value="1915" />
+      <I_08 value="41670" />
+      <I_12 value="150" />
+      <I_16 value="18100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="62" />
+      <I_04 value="1965" />
+      <I_08 value="43585" />
+      <I_12 value="150" />
+      <I_16 value="18250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="63" />
+      <I_04 value="2015" />
+      <I_08 value="45550" />
+      <I_12 value="150" />
+      <I_16 value="18400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="64" />
+      <I_04 value="2065" />
+      <I_08 value="47565" />
+      <I_12 value="150" />
+      <I_16 value="18550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="65" />
+      <I_04 value="2115" />
+      <I_08 value="49630" />
+      <I_12 value="250" />
+      <I_16 value="18800" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="66" />
+      <I_04 value="2165" />
+      <I_08 value="51745" />
+      <I_12 value="150" />
+      <I_16 value="18950" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="67" />
+      <I_04 value="2215" />
+      <I_08 value="53910" />
+      <I_12 value="150" />
+      <I_16 value="19100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="68" />
+      <I_04 value="2265" />
+      <I_08 value="56125" />
+      <I_12 value="150" />
+      <I_16 value="19250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="69" />
+      <I_04 value="2315" />
+      <I_08 value="58390" />
+      <I_12 value="150" />
+      <I_16 value="19400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="70" />
+      <I_04 value="2365" />
+      <I_08 value="60705" />
+      <I_12 value="250" />
+      <I_16 value="19650" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="71" />
+      <I_04 value="2415" />
+      <I_08 value="63070" />
+      <I_12 value="150" />
+      <I_16 value="19800" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="72" />
+      <I_04 value="2465" />
+      <I_08 value="65485" />
+      <I_12 value="150" />
+      <I_16 value="19950" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="73" />
+      <I_04 value="2515" />
+      <I_08 value="67950" />
+      <I_12 value="150" />
+      <I_16 value="20100" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="74" />
+      <I_04 value="2565" />
+      <I_08 value="70465" />
+      <I_12 value="150" />
+      <I_16 value="20250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="75" />
+      <I_04 value="2615" />
+      <I_08 value="73030" />
+      <I_12 value="300" />
+      <I_16 value="20550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="76" />
+      <I_04 value="2665" />
+      <I_08 value="75645" />
+      <I_12 value="150" />
+      <I_16 value="20700" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="77" />
+      <I_04 value="2715" />
+      <I_08 value="78310" />
+      <I_12 value="150" />
+      <I_16 value="20850" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="78" />
+      <I_04 value="2765" />
+      <I_08 value="81025" />
+      <I_12 value="150" />
+      <I_16 value="21000" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="79" />
+      <I_04 value="2815" />
+      <I_08 value="83790" />
+      <I_12 value="150" />
+      <I_16 value="21150" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="80" />
+      <I_04 value="2865" />
+      <I_08 value="86605" />
+      <I_12 value="300" />
+      <I_16 value="21450" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="81" />
+      <I_04 value="2915" />
+      <I_08 value="89470" />
+      <I_12 value="150" />
+      <I_16 value="21600" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="82" />
+      <I_04 value="2965" />
+      <I_08 value="92385" />
+      <I_12 value="150" />
+      <I_16 value="21750" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="83" />
+      <I_04 value="3015" />
+      <I_08 value="95350" />
+      <I_12 value="150" />
+      <I_16 value="21900" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="84" />
+      <I_04 value="3065" />
+      <I_08 value="98365" />
+      <I_12 value="150" />
+      <I_16 value="22050" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="85" />
+      <I_04 value="3115" />
+      <I_08 value="101430" />
+      <I_12 value="300" />
+      <I_16 value="22350" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="86" />
+      <I_04 value="3165" />
+      <I_08 value="104545" />
+      <I_12 value="150" />
+      <I_16 value="22500" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="87" />
+      <I_04 value="3215" />
+      <I_08 value="107710" />
+      <I_12 value="150" />
+      <I_16 value="22650" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="88" />
+      <I_04 value="3265" />
+      <I_08 value="110925" />
+      <I_12 value="150" />
+      <I_16 value="22800" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="89" />
+      <I_04 value="3315" />
+      <I_08 value="114190" />
+      <I_12 value="150" />
+      <I_16 value="22950" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="90" />
+      <I_04 value="3365" />
+      <I_08 value="117505" />
+      <I_12 value="300" />
+      <I_16 value="23250" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="91" />
+      <I_04 value="3415" />
+      <I_08 value="120870" />
+      <I_12 value="150" />
+      <I_16 value="23400" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="92" />
+      <I_04 value="3465" />
+      <I_08 value="124285" />
+      <I_12 value="150" />
+      <I_16 value="23550" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="93" />
+      <I_04 value="3515" />
+      <I_08 value="127750" />
+      <I_12 value="150" />
+      <I_16 value="23700" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="94" />
+      <I_04 value="3565" />
+      <I_08 value="131265" />
+      <I_12 value="150" />
+      <I_16 value="23850" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="95" />
+      <I_04 value="3615" />
+      <I_08 value="134830" />
+      <I_12 value="300" />
+      <I_16 value="24150" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="96" />
+      <I_04 value="3665" />
+      <I_08 value="138445" />
+      <I_12 value="150" />
+      <I_16 value="24300" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="97" />
+      <I_04 value="3715" />
+      <I_08 value="142110" />
+      <I_12 value="150" />
+      <I_16 value="24450" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="98" />
+      <I_04 value="3765" />
+      <I_08 value="145825" />
+      <I_12 value="150" />
+      <I_16 value="24600" />
+    </MasterLevel>
+    <MasterLevel>
+      <I_00 value="99" />
+      <I_04 value="0" />
+      <I_08 value="149590" />
+      <I_12 value="400" />
+      <I_16 value="25000" />
+    </MasterLevel>
+  </MasterLevelTable1>
+</TDB>

@@ -1,0 +1,1290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MSG unicode_names="True" unicode_msg="True">
+  <Msg_Entry ID="0" name="spe_skill_0000" I_12="0">
+    <Line Text="Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="217" name="spe_skill_0002" I_12="0">
+    <Line Text="Super God Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="1" name="spe_skill_0003" I_12="0">
+    <Line Text="Super Dragon Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="2" name="spe_skill_0004" I_12="0">
+    <Line Text="Spirit Bomb" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="3" name="spe_skill_0005" I_12="0">
+    <Line Text="Instant Transmission" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="4" name="spe_skill_0006" I_12="0">
+    <Line Text="Spirit Bomb Tower (Time Patrol Specific)" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="5" name="spe_skill_0010" I_12="0">
+    <Line Text="Riot Javelin" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="218" name="spe_skill_0011" I_12="0">
+    <Line Text="Rebellion Spear" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="219" name="spe_skill_0012" I_12="0">
+    <Line Text="Tyrant Lancer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="6" name="spe_skill_0014" I_12="0">
+    <Line Text="Super Guard" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="7" name="spe_skill_0020" I_12="0">
+    <Line Text="Afterimage Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="8" name="spe_skill_0021" I_12="0">
+    <Line Text="x10 Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="332" name="spe_skill_0040" I_12="0">
+    <Line Text="Kamehameha Boost" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="9" name="spe_skill_0041" I_12="0">
+    <Line Text="Scissors Paper Rock" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="220" name="spe_skill_0042" I_12="0">
+    <Line Text="Power Pole" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="221" name="spe_skill_0043" I_12="0">
+    <Line Text="Power Pole Combo" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="410" name="spe_skill_0050" I_12="0">
+    <Line Text="Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="10" name="spe_skill_0051" I_12="0">
+    <Line Text="Stone Bullet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="11" name="spe_skill_0052" I_12="0">
+    <Line Text="Consecutive Energy Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="222" name="spe_skill_0053" I_12="0">
+    <Line Text="Kamekameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="223" name="spe_skill_0060" I_12="0">
+    <Line Text="Evil Ray Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="224" name="spe_skill_0061" I_12="0">
+    <Line Text="Evil Rise Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="225" name="spe_skill_0062" I_12="0">
+    <Line Text="Masenko" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="12" name="spe_skill_0070" I_12="0">
+    <Line Text="Super Dragon Flight" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="13" name="spe_skill_0071" I_12="0">
+    <Line Text="Evil Whirlwind" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="14" name="spe_skill_0080" I_12="0">
+    <Line Text="Burst Rush" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="15" name="spe_skill_0081" I_12="0">
+    <Line Text="Ki Blast Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="210" name="spe_skill_0082" I_12="0">
+    <Line Text="Justice Pose" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="16" name="spe_skill_0090" I_12="0">
+    <Line Text="Evil Explosion" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="17" name="spe_skill_0091" I_12="0">
+    <Line Text="Wall of Defense" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="18" name="spe_skill_0092" I_12="0">
+    <Line Text="Evil Flight Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="19" name="spe_skill_0093" I_12="0">
+    <Line Text="Light Grenade" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="20" name="spe_skill_0094" I_12="0">
+    <Line Text="Evil Eyes" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="21" name="spe_skill_0100" I_12="0">
+    <Line Text="Orin Combo" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="22" name="spe_skill_0101" I_12="0">
+    <Line Text="Destructo-Disc" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="302" name="spe_skill_0102" I_12="0">
+    <Line Text="Kaioken" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="23" name="spe_skill_0103" I_12="0">
+    <Line Text="X3 Kaioken" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="24" name="spe_skill_0104" I_12="0">
+    <Line Text="X20 Kaioken" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="25" name="spe_skill_0105" I_12="0">
+    <Line Text="Turtle Style Last Resort" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="26" name="spe_skill_0106" I_12="0">
+    <Line Text="Lullaby Punch" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="27" name="spe_skill_0107" I_12="0">
+    <Line Text="Cross Arm Dive" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="28" name="spe_skill_0110" I_12="0">
+    <Line Text="Wolf Fang Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="29" name="spe_skill_0111" I_12="0">
+    <Line Text="Ki Blast Thrust" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="30" name="spe_skill_0112" I_12="0">
+    <Line Text="Energy Through" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="31" name="spe_skill_0113" I_12="0">
+    <Line Text="Super Through" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="32" name="spe_skill_0114" I_12="0">
+    <Line Text="Ultra Through" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="226" name="spe_skill_0115" I_12="0">
+    <Line Text="Afterimage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="227" name="spe_skill_0116" I_12="0">
+    <Line Text="Fake Death" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="228" name="spe_skill_0120" I_12="0">
+    <Line Text="Dodon Ray" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="33" name="spe_skill_0121" I_12="0">
+    <Line Text="Tri-Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="34" name="spe_skill_0122" I_12="0">
+    <Line Text="Volleyball Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="35" name="spe_skill_0123" I_12="0">
+    <Line Text="Solar Flare" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="36" name="spe_skill_0124" I_12="0">
+    <Line Text="Rise to Action" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="37" name="spe_skill_0125" I_12="0">
+    <Line Text="Spirit Boost" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="38" name="spe_skill_0130" I_12="0">
+    <Line Text="Double Sunday" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="39" name="spe_skill_0131" I_12="0">
+    <Line Text="Saturday Crash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="40" name="spe_skill_0132" I_12="0">
+    <Line Text="Shining Friday" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="229" name="spe_skill_0140" I_12="0">
+    <Line Text="Acid" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="301" name="spe_skill_0141" I_12="0">
+    <Line Text="Poison" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="41" name="spe_skill_0142" I_12="0">
+    <Line Text="Saibabeam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="42" name="spe_skill_0150" I_12="0">
+    <Line Text="Bomber DX" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="43" name="spe_skill_0151" I_12="0">
+    <Line Text="Genocide Shell" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="44" name="spe_skill_0152" I_12="0">
+    <Line Text="Arm Crash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="45" name="spe_skill_0160" I_12="0">
+    <Line Text="Galick Gun" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="46" name="spe_skill_0161" I_12="0">
+    <Line Text="Flash Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="47" name="spe_skill_0162" I_12="0">
+    <Line Text="Finish Breaker" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="230" name="spe_skill_0163" I_12="0">
+    <Line Text="Shine Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="48" name="spe_skill_0164" I_12="0">
+    <Line Text="Sledgehammer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="49" name="spe_skill_0180" I_12="0">
+    <Line Text="Time Control" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="50" name="spe_skill_0182" I_12="0">
+    <Line Text="Guldo Fighting Pose" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="51" name="spe_skill_0183" I_12="0">
+    <Line Text="Fighting Pose C" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="52" name="spe_skill_0184" I_12="0">
+    <Line Text="Fighting Pose H" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="53" name="spe_skill_0190" I_12="0">
+    <Line Text="Fighting Pose D" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="54" name="spe_skill_0191" I_12="0">
+    <Line Text="Fighting Pose I" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="55" name="spe_skill_0192" I_12="0">
+    <Line Text="Mach Punch" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="56" name="spe_skill_0193" I_12="0">
+    <Line Text="Mach Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="57" name="spe_skill_0200" I_12="0">
+    <Line Text="Recoome Eraser Gun" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="58" name="spe_skill_0201" I_12="0">
+    <Line Text="Recoome Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="59" name="spe_skill_0202" I_12="0">
+    <Line Text="Fighting Pose E" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="391" name="spe_skill_0203" I_12="0">
+    <Line Text="Fighting Pose J" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="390" name="spe_skill_0204" I_12="0">
+    <Line Text="Fighting Pose K" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="60" name="spe_skill_0210" I_12="0">
+    <Line Text="Crusher Ball" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="61" name="spe_skill_0211" I_12="0">
+    <Line Text="Sauzer Blade" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="62" name="spe_skill_0212" I_12="0">
+    <Line Text="Fighting Pose B" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="231" name="spe_skill_0213" I_12="0">
+    <Line Text="Fighting Pose G" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="418" name="spe_skill_0220" I_12="0">
+    <Line Text="Fighting Pose A" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="63" name="spe_skill_0221" I_12="0">
+    <Line Text="Holstein Shock" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="64" name="spe_skill_0222" I_12="0">
+    <Line Text="Milky Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="65" name="spe_skill_0223" I_12="0">
+    <Line Text="Fighting Pose F" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="66" name="spe_skill_0230" I_12="0">
+    <Line Text="Emperor&amp;apos;s Sign" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="67" name="spe_skill_0240" I_12="0">
+    <Line Text="Death Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="232" name="spe_skill_0241" I_12="0">
+    <Line Text="Death Psycho Bomb" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="233" name="spe_skill_0242" I_12="0">
+    <Line Text="Death Slash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="234" name="spe_skill_0243" I_12="0">
+    <Line Text="Death Crasher" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="68" name="spe_skill_0244" I_12="0">
+    <Line Text="Death Slicer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="69" name="spe_skill_0260" I_12="0">
+    <Line Text="Burning Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="70" name="spe_skill_0261" I_12="0">
+    <Line Text="God Breaker" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="71" name="spe_skill_0262" I_12="0">
+    <Line Text="Change The Future" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="72" name="spe_skill_0264" I_12="0">
+    <Line Text="Shining Slash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="73" name="spe_skill_0265" I_12="0">
+    <Line Text="Burning Slash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="74" name="spe_skill_0270" I_12="0">
+    <Line Text="Finish Buster" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="75" name="spe_skill_0271" I_12="0">
+    <Line Text="Double Buster" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="76" name="spe_skill_0272" I_12="0">
+    <Line Text="Final Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="77" name="spe_skill_0280" I_12="0">
+    <Line Text="Side Bridge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="78" name="spe_skill_0281" I_12="0">
+    <Line Text="Freedom Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="79" name="spe_skill_0282" I_12="0">
+    <Line Text="Smile Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="80" name="spe_skill_0290" I_12="0">
+    <Line Text="Flash Bomber" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="81" name="spe_skill_0291" I_12="0">
+    <Line Text="Drain Field" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="82" name="spe_skill_0292" I_12="0">
+    <Line Text="Thunder Eraser" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="83" name="spe_skill_0293" I_12="0">
+    <Line Text="Drain Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="84" name="spe_skill_0294" I_12="0">
+    <Line Text="Super Drain" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="85" name="spe_skill_0295" I_12="0">
+    <Line Text="Hyper Drain" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="86" name="spe_skill_0300" I_12="0">
+    <Line Text="Power Blitz" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="87" name="spe_skill_0301" I_12="0">
+    <Line Text="Endless Shoot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="88" name="spe_skill_0302" I_12="0">
+    <Line Text="Deadly Dance" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="235" name="spe_skill_0310" I_12="0">
+    <Line Text="All Clear" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="343" name="spe_skill_0311" I_12="0">
+    <Line Text="Gravity Impact" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="89" name="spe_skill_0312" I_12="0">
+    <Line Text="Perfect Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="306" name="spe_skill_0330" I_12="0">
+    <Line Text="Taunt" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="90" name="spe_skill_0340" I_12="0">
+    <Line Text="Justice Rush" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="91" name="spe_skill_0341" I_12="0">
+    <Line Text="Eagle Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="92" name="spe_skill_0342" I_12="0">
+    <Line Text="Hawk Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="93" name="spe_skill_0350" I_12="0">
+    <Line Text="Innocence Bullet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="94" name="spe_skill_0351" I_12="0">
+    <Line Text="Innocence Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="236" name="spe_skill_0352" I_12="0">
+    <Line Text="Angry Hit" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="237" name="spe_skill_0353" I_12="0">
+    <Line Text="Zigzag Express" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="238" name="spe_skill_0354" I_12="0">
+    <Line Text="Explosive Buu Buu Punch" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="95" name="spe_skill_0360" I_12="0">
+    <Line Text="Ill Flash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="96" name="spe_skill_0361" I_12="0">
+    <Line Text="Ill Bomber" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="97" name="spe_skill_0362" I_12="0">
+    <Line Text="Ill Rain" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="98" name="spe_skill_0370" I_12="0">
+    <Line Text="Majin Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="99" name="spe_skill_0371" I_12="0">
+    <Line Text="Vanishing Ball" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="411" name="spe_skill_0372" I_12="0">
+    <Line Text="Quick Sleep" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="412" name="spe_skill_0373" I_12="0">
+    <Line Text="Pearl Flash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="100" name="spe_skill_0380" I_12="0">
+    <Line Text="DIE DIE Missile Barrage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="101" name="spe_skill_0381" I_12="0">
+    <Line Text="Galactic Donuts" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="102" name="spe_skill_0382" I_12="0">
+    <Line Text="Super Ghost Kamikaze Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="103" name="spe_skill_0390" I_12="0">
+    <Line Text="Big Bang Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="104" name="spe_skill_0391" I_12="0">
+    <Line Text="Pressure Sign" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="105" name="spe_skill_0392" I_12="0">
+    <Line Text="Split Finger Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="408" name="spe_skill_0400" I_12="0">
+    <Line Text="Blaster Shell" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="106" name="spe_skill_0401" I_12="0">
+    <Line Text="Gigantic Omega" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="107" name="spe_skill_0402" I_12="0">
+    <Line Text="Gigantic Slam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="108" name="spe_skill_0410" I_12="0">
+    <Line Text="God of Destruction&amp;apos;s Anger" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="109" name="spe_skill_0411" I_12="0">
+    <Line Text="God of Destruction&amp;apos;s Rampage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="110" name="spe_skill_0412" I_12="0">
+    <Line Text="God of Destruction&amp;apos;s Wrath" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="111" name="spe_skill_0420" I_12="0">
+    <Line Text="Feint Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="112" name="spe_skill_0421" I_12="0">
+    <Line Text="Prepare to be Punished" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="113" name="spe_skill_0422" I_12="0">
+    <Line Text="Dancing Parapara" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="114" name="spe_skill_0440" I_12="0">
+    <Line Text="Great Ape Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="115" name="spe_skill_0441" I_12="0">
+    <Line Text="Boulder Toss" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="116" name="spe_skill_0442" I_12="0">
+    <Line Text="Boulder Break" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="117" name="spe_skill_0480" I_12="0">
+    <Line Text="Freezing Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="118" name="spe_skill_0481" I_12="0">
+    <Line Text="Freezing Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="119" name="spe_skill_0482" I_12="0">
+    <Line Text="Ice Claw" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="120" name="spe_skill_0483" I_12="0">
+    <Line Text="Ice Claw" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="121" name="spe_skill_0484" I_12="0">
+    <Line Text="Ice Field" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="122" name="spe_skill_0485" I_12="0">
+    <Line Text="Ice Field" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="123" name="spe_skill_0490" I_12="0">
+    <Line Text="Burst Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="124" name="spe_skill_0491" I_12="0">
+    <Line Text="Burst Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="125" name="spe_skill_0492" I_12="0">
+    <Line Text="Burst Reflection" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="126" name="spe_skill_0493" I_12="0">
+    <Line Text="Burst Reflection" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="239" name="spe_skill_0494" I_12="0">
+    <Line Text="Fighting Sun" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="127" name="spe_skill_0495" I_12="0">
+    <Line Text="Fighting Sun" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="128" name="spe_skill_0500" I_12="0">
+    <Line Text="Dragon Flash Bullet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="129" name="spe_skill_0501" I_12="0">
+    <Line Text="Whirlwind Blade" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="130" name="spe_skill_0502" I_12="0">
+    <Line Text="Dragon Thunder" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="131" name="spe_skill_0510" I_12="0">
+    <Line Text="Big Bang Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="132" name="spe_skill_0511" I_12="0">
+    <Line Text="Bluff Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="133" name="spe_skill_0520" I_12="0">
+    <Line Text="Dynamite Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="134" name="spe_skill_0521" I_12="0">
+    <Line Text="Rolling Hercule Punch" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="135" name="spe_skill_0522" I_12="0">
+    <Line Text="Present For You" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="136" name="spe_skill_0530" I_12="0">
+    <Line Text="Time Shackles" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="240" name="spe_skill_0531" I_12="0">
+    <Line Text="Seasoning Arrow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="137" name="spe_skill_0532" I_12="0">
+    <Line Text="Darkness Mixer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="138" name="spe_skill_0533" I_12="0">
+    <Line Text="Bloody Sauce" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="139" name="spe_skill_0534" I_12="0">
+    <Line Text="Rage Saucer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="140" name="spe_skill_0540" I_12="0">
+    <Line Text="Energy Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="141" name="spe_skill_0541" I_12="0">
+    <Line Text="Boiling Ball" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="142" name="spe_skill_0542" I_12="0">
+    <Line Text="Tricky Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="409" name="spe_skill_0590" I_12="0">
+    <Line Text="Energy Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="143" name="spe_skill_0591" I_12="0">
+    <Line Text="Energy Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="144" name="spe_skill_0592" I_12="0">
+    <Line Text="Full Power Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="145" name="spe_skill_0593" I_12="0">
+    <Line Text="Maximum Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="146" name="spe_skill_0594" I_12="0">
+    <Line Text="Meteor Blow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="147" name="spe_skill_0595" I_12="0">
+    <Line Text="Meteor Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="148" name="spe_skill_0596" I_12="0">
+    <Line Text="Meteor Crash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="149" name="spe_skill_0600" I_12="0">
+    <Line Text="Beam Rifle" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="150" name="spe_skill_0620" I_12="0">
+    <Line Text="Galick Beam Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="151" name="spe_skill_0621" I_12="0">
+    <Line Text="Infinity Explosion" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="241" name="spe_skill_0622" I_12="0">
+    <Line Text="Android Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="242" name="spe_skill_0623" I_12="0">
+    <Line Text="Phantom Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="152" name="spe_skill_0650" I_12="0">
+    <Line Text="Prelude to Destruction" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="153" name="spe_skill_0651" I_12="0">
+    <Line Text="Strike of Revelation" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="154" name="spe_skill_0652" I_12="0">
+    <Line Text="Kai Kai" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="155" name="spe_skill_0670" I_12="0">
+    <Line Text="Elite Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="156" name="spe_skill_0671" I_12="0">
+    <Line Text="Elite Shooting" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="157" name="spe_skill_0672" I_12="0">
+    <Line Text="Hero&amp;apos;s Pose" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="158" name="spe_skill_0630" I_12="0">
+    <Line Text="Position Shift" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="159" name="spe_skill_0631" I_12="0">
+    <Line Text="Time Bullet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="160" name="spe_skill_0632" I_12="0">
+    <Line Text="Energy Release" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="161" name="spe_skill_0633" I_12="0">
+    <Line Text="Position Shift" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="162" name="spe_skill_0673" I_12="0">
+    <Line Text="Elite Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="163" name="spe_skill_0674" I_12="0">
+    <Line Text="Elite Shooting" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="164" name="spe_skill_0675" I_12="0">
+    <Line Text="Hero&amp;apos;s Pose" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="165" name="spe_skill_0676" I_12="0">
+    <Line Text="" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="166" name="spe_skill_0677" I_12="0">
+    <Line Text="" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="167" name="spe_skill_0678" I_12="0">
+    <Line Text="" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="168" name="spe_skill_0679" I_12="0">
+    <Line Text="" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="169" name="spe_skill_0680" I_12="0">
+    <Line Text="" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="170" name="spe_skill_0044" I_12="0">
+    <Line Text="Power Pole" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="171" name="spe_skill_0800" I_12="0">
+    <Line Text="Super God Shock Flash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="172" name="spe_skill_0801" I_12="0">
+    <Line Text="Burst Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="173" name="spe_skill_0810" I_12="0">
+    <Line Text="Final Blow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="174" name="spe_skill_0811" I_12="0">
+    <Line Text="Counter Burst" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="175" name="spe_skill_0820" I_12="0">
+    <Line Text="Emperor&amp;apos;s Edge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="176" name="spe_skill_0821" I_12="0">
+    <Line Text="Emperor&amp;apos;s Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="364" name="spe_skill_0001" I_12="0">
+    <Line Text="Bending Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="365" name="spe_skill_0007" I_12="0">
+    <Line Text="Kaioken Assault" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="366" name="spe_skill_0008" I_12="0">
+    <Line Text="Kaioken Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="367" name="spe_skill_0015" I_12="0">
+    <Line Text="Ki Explosion" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="368" name="spe_skill_0016" I_12="0">
+    <Line Text="Charged Ki Wave" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="177" name="spe_skill_0022" I_12="0">
+    <Line Text="Super Afterimage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="178" name="spe_skill_0030" I_12="0">
+    <Line Text="Super God Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="179" name="spe_skill_0031" I_12="0">
+    <Line Text="Shockwave" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="369" name="spe_skill_0032" I_12="0">
+    <Line Text="Backflip" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="370" name="spe_skill_0095" I_12="0">
+    <Line Text="Dust Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="371" name="spe_skill_0096" I_12="0">
+    <Line Text="Paralyze Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="180" name="spe_skill_0097" I_12="0">
+    <Line Text="Sonic Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="181" name="spe_skill_0108" I_12="0">
+    <Line Text="Super Destructo-Disc" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="182" name="spe_skill_0117" I_12="0">
+    <Line Text="Neo Wolf Fang Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="183" name="spe_skill_0153" I_12="0">
+    <Line Text="Murder Grenade" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="184" name="spe_skill_0165" I_12="0">
+    <Line Text="Atomic Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="185" name="spe_skill_0166" I_12="0">
+    <Line Text="Mighty Explosive Wave" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="186" name="spe_skill_0167" I_12="0">
+    <Line Text="Earth Splitting Galick Gun" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="243" name="spe_skill_0224" I_12="0">
+    <Line Text="Ginyu Force Special Combo" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="372" name="spe_skill_0245" I_12="0">
+    <Line Text="Death Psycho Bomb" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="373" name="spe_skill_0246" I_12="0">
+    <Line Text="Death Wave" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="187" name="spe_skill_0247" I_12="0">
+    <Line Text="Crazy Finger Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="188" name="spe_skill_0355" I_12="0">
+    <Line Text="Go-Go Gum" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="189" name="spe_skill_0383" I_12="0">
+    <Line Text="Super Donut Volley" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="190" name="spe_skill_0443" I_12="0">
+    <Line Text="Brainwash Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="191" name="spe_skill_0444" I_12="0">
+    <Line Text="Peeler Storm" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="198" name="spe_skill_0597" I_12="0">
+    <Line Text="Energy Wave Combo" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="199" name="spe_skill_0653" I_12="0">
+    <Line Text="Finishing Blow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="200" name="spe_skill_0750" I_12="0">
+    <Line Text="Life Absorption" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="201" name="spe_skill_0751" I_12="0">
+    <Line Text="Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="362" name="spe_skill_0830" I_12="0">
+    <Line Text="Rocket Punch" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="350" name="spe_skill_0831" I_12="0">
+    <Line Text="Rocket Tackle" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="351" name="spe_skill_0832" I_12="0">
+    <Line Text="Eye Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="352" name="spe_skill_0833" I_12="0">
+    <Line Text="Android Rush" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="192" name="spe_skill_0840" I_12="0">
+    <Line Text="Feint Crash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="193" name="spe_skill_0841" I_12="0">
+    <Line Text="Destructive Ray" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="194" name="spe_skill_0850" I_12="0">
+    <Line Text="Shadow Crusher" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="244" name="spe_skill_0860" I_12="0">
+    <Line Text="Sonic Rush" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="195" name="spe_skill_0861" I_12="0">
+    <Line Text="Super Explosive Wave" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="196" name="spe_skill_0862" I_12="0">
+    <Line Text="Senko Ki Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="197" name="spe_skill_0870" I_12="0">
+    <Line Text="Kill Driver" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="202" name="spe_skill_0871" I_12="0">
+    <Line Text="Fruit of the Tree of Might" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="203" name="spe_skill_0872" I_12="0">
+    <Line Text="Sudden Storm" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="204" name="spe_skill_0880" I_12="0">
+    <Line Text="Rakshasa&amp;apos;s Claw" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="205" name="spe_skill_0881" I_12="0">
+    <Line Text="Dimensional Hole" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="206" name="spe_skill_1200" I_12="0">
+    <Line Text="Punisher Drive" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="207" name="spe_skill_1201" I_12="0">
+    <Line Text="Super Mad Dance" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="208" name="spe_skill_1210" I_12="0">
+    <Line Text="Darkness Twin Star" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="209" name="spe_skill_1211" I_12="0">
+    <Line Text="Darkness Eye Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="388" name="spe_skill_1212" I_12="0">
+    <Line Text="Namek Finger" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="389" name="spe_skill_1213" I_12="0">
+    <Line Text="Mouth Cannon: short-range" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="245" name="spe_skill_1214" I_12="0">
+    <Line Text="Mouth Cannon: mid-range" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="246" name="spe_skill_1215" I_12="0">
+    <Line Text="Mouth Cannon: long-range" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="211" name="spe_skill_1216" I_12="0">
+    <Line Text="Evil Roar" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="212" name="spe_skill_1220" I_12="0">
+    <Line Text="Gorgeous Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="213" name="spe_skill_1221" I_12="0">
+    <Line Text="Audacious Laugh" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="214" name="spe_skill_1230" I_12="0">
+    <Line Text="Dodoria Headbutt" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="303" name="spe_skill_1231" I_12="0">
+    <Line Text="Dodoria Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="304" name="spe_skill_1232" I_12="0">
+    <Line Text="Critical Upper" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="305" name="spe_skill_1233" I_12="0">
+    <Line Text="Giga Boost" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="215" name="spe_skill_1240" I_12="0">
+    <Line Text="Do or Die" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="216" name="spe_skill_1250" I_12="0">
+    <Line Text="Peeler Storm" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="247" name="spe_skill_1251" I_12="0">
+    <Line Text="Marbling Drop" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="248" name="spe_skill_1252" I_12="0">
+    <Line Text="Instant Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="249" name="spe_skill_1253" I_12="0">
+    <Line Text="Brainwash Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="250" name="spe_skill_1254" I_12="0">
+    <Line Text="Brainwash Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="251" name="spe_skill_1255" I_12="0">
+    <Line Text="Brainwash Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="252" name="spe_skill_1256" I_12="0">
+    <Line Text="Brainwash Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="253" name="spe_skill_1257" I_12="0">
+    <Line Text="Marbling Drop" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="254" name="spe_skill_1258" I_12="0">
+    <Line Text="Marbling Drop" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="255" name="spe_skill_1259" I_12="0">
+    <Line Text="Marbling Drop" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="256" name="spe_skill_1260" I_12="0">
+    <Line Text="Flash Fist Crush" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="257" name="spe_skill_1310" I_12="0">
+    <Line Text="Aura Slide" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="258" name="spe_skill_1320" I_12="0">
+    <Line Text="Dual Masenko" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="259" name="spe_skill_1330" I_12="0">
+    <Line Text="Chaos Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="260" name="spe_skill_1340" I_12="0">
+    <Line Text="Galick Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="261" name="spe_skill_1350" I_12="0">
+    <Line Text="Time Skip/Flash Skewer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="427" name="spe_skill_1351" I_12="0">
+    <Line Text="Time Skip/Back Breaker" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="392" name="spe_skill_1352" I_12="0">
+    <Line Text="Time Skip/Jump Spike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="393" name="spe_skill_1360" I_12="0">
+    <Line Text="Destruction&amp;apos;s Concerto: Comet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="394" name="spe_skill_1361" I_12="0">
+    <Line Text="Destruction&amp;apos;s Concerto: Starfall" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="395" name="spe_skill_1362" I_12="0">
+    <Line Text="Destruction&amp;apos;s Concerto: Meteor" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="396" name="spe_skill_1363" I_12="0">
+    <Line Text="Destruction&amp;apos;s Conductor" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="397" name="spe_skill_1370" I_12="0">
+    <Line Text="God of Destruction&amp;apos;s Roar" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="398" name="spe_skill_0109" I_12="0">
+    <Line Text="Jumping Energy Wave" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="399" name="spe_skill_0063" I_12="0">
+    <Line Text="Menacing Flare" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="400" name="spe_skill_0812" I_12="0">
+    <Line Text="Focus Flash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="401" name="spe_skill_0813" I_12="0">
+    <Line Text="Wild Hunt" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="402" name="spe_skill_0814" I_12="0">
+    <Line Text="Tail Slicer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="403" name="spe_skill_0231" I_12="0">
+    <Line Text="Sonic Bomb" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="404" name="spe_skill_1380" I_12="0">
+    <Line Text="God Splitter" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="405" name="spe_skill_1381" I_12="0">
+    <Line Text="Heavenly Arrow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="413" name="spe_skill_1391" I_12="0">
+    <Line Text="Divine Retribution" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="414" name="spe_skill_1392" I_12="0">
+    <Line Text="Sudden Death Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="415" name="spe_skill_1400" I_12="0">
+    <Line Text="Reverse Launcher" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="416" name="spe_skill_1401" I_12="0">
+    <Line Text="Trap Shooter" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="417" name="spe_skill_1402" I_12="0">
+    <Line Text="Psycho Barrier" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="419" name="spe_skill_1410" I_12="0">
+    <Line Text="Spirit Stab" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="428" name="spe_skill_1411" I_12="0">
+    <Line Text="Savage Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="420" name="spe_skill_1420" I_12="0">
+    <Line Text="Blades of Judgment" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="421" name="spe_skill_1421" I_12="0">
+    <Line Text="Holy Wrath" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="422" name="spe_skill_1422" I_12="0">
+    <Line Text="Lightning of Absolution" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="423" name="spe_skill_1423" I_12="0">
+    <Line Text="Divinity Unleashed" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="424" name="spe_skill_1430" I_12="0">
+    <Line Text="Celestial Hammer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="262" name="spe_skill_1431" I_12="0">
+    <Line Text="Light of Justice" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="263" name="spe_skill_1432" I_12="0">
+    <Line Text="Flames of Retribution" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="425" name="spe_skill_1433" I_12="0">
+    <Line Text="Spiral of Condemnation" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="264" name="spe_skill_1440" I_12="0">
+    <Line Text="Super Ghost Buu Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="265" name="spe_skill_1441" I_12="0">
+    <Line Text="Candy Beam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="266" name="spe_skill_1450" I_12="0">
+    <Line Text="Petrifying Spit" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="267" name="spe_skill_1451" I_12="0">
+    <Line Text="Evil Flame" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="268" name="spe_skill_1460" I_12="0">
+    <Line Text="Data Input" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="269" name="spe_skill_1461" I_12="0">
+    <Line Text="Handy Canon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="270" name="spe_skill_1470" I_12="0">
+    <Line Text="Hero&amp;apos;s Flute" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="271" name="spe_skill_1471" I_12="0">
+    <Line Text="Brave Sword Slash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="272" name="spe_skill_0013" I_12="0">
+    <Line Text="Rebellion Spear" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="273" name="spe_skill_1480" I_12="0">
+    <Line Text="Rough Ranger" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="274" name="spe_skill_1490" I_12="0">
+    <Line Text="Power Impact" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="275" name="spe_skill_1491" I_12="0">
+    <Line Text="Meditation" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="276" name="spe_skill_1500" I_12="0">
+    <Line Text="Confusion Blade" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="277" name="spe_skill_1501" I_12="0">
+    <Line Text="Sneaky Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="278" name="spe_skill_1502" I_12="0">
+    <Line Text="Energy Minefield" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="279" name="spe_skill_1510" I_12="0">
+    <Line Text="Soaring Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="280" name="spe_skill_1511" I_12="0">
+    <Line Text="Surging Spirit" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="281" name="spe_skill_1512" I_12="0">
+    <Line Text="Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="282" name="spe_skill_1513" I_12="0">
+    <Line Text="Meteor Crash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="283" name="spe_skill_0225" I_12="0">
+    <Line Text="Holstein Shock" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="284" name="spe_skill_1520" I_12="0">
+    <Line Text="Blaster Ball" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="285" name="spe_skill_1521" I_12="0">
+    <Line Text="Gigantic Breaker" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="286" name="spe_skill_1522" I_12="0">
+    <Line Text="Ray Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="287" name="spe_skill_1530" I_12="0">
+    <Line Text="Reverse Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="288" name="spe_skill_1531" I_12="0">
+    <Line Text="Variant Drive" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="289" name="spe_skill_1532" I_12="0">
+    <Line Text="Revenge Final Flash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="290" name="spe_skill_0635" I_12="0">
+    <Line Text="Position Shift" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="291" name="spe_skill_0636" I_12="0">
+    <Line Text="Time Bullet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="292" name="spe_skill_0637" I_12="0">
+    <Line Text="Energy Release" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="293" name="spe_skill_1540" I_12="0">
+    <Line Text="Spirit Blaster" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="294" name="spe_skill_1541" I_12="0">
+    <Line Text="Punisher Shield" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="295" name="spe_skill_1542" I_12="0">
+    <Line Text="Assault Vanish" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="296" name="spe_skill_1543" I_12="0">
+    <Line Text="Super Mad Dance" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="297" name="spe_skill_1544" I_12="0">
+    <Line Text="Big Bang Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="298" name="spe_skill_1550" I_12="0">
+    <Line Text="Powered Shell" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="299" name="spe_skill_1551" I_12="0">
+    <Line Text="Gigantic Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="300" name="spe_skill_1552" I_12="0">
+    <Line Text="Gigantic Rage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="307" name="spe_skill_1553" I_12="0">
+    <Line Text="Gigantic Rage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="308" name="spe_skill_0634" I_12="0">
+    <Line Text="Time Bullet" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="309" name="spe_skill_1503" I_12="0">
+    <Line Text="Sneaky Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="310" name="spe_skill_0535" I_12="0">
+    <Line Text="Time Shackles" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="311" name="spe_skill_0536" I_12="0">
+    <Line Text="Seasoning Arrow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="312" name="spe_skill_0537" I_12="0">
+    <Line Text="Rage Saucer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="313" name="spe_skill_0538" I_12="0">
+    <Line Text="Darkness Mixer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="314" name="spe_skill_0539" I_12="0">
+    <Line Text="Bloody Sauce" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="315" name="spe_skill_0543" I_12="0">
+    <Line Text="Marbling Drop" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="316" name="spe_skill_0544" I_12="0">
+    <Line Text="Peeler Storm" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="317" name="spe_skill_0545" I_12="0">
+    <Line Text="Brainwash Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="318" name="spe_skill_0598" I_12="0">
+    <Line Text="Ultimate Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="319" name="spe_skill_0599" I_12="0">
+    <Line Text="Burst Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="320" name="spe_skill_1560" I_12="0">
+    <Line Text="Pretty Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="321" name="spe_skill_1562" I_12="0">
+    <Line Text="Formation!" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="322" name="spe_skill_1563" I_12="0">
+    <Line Text="Lovely Cyclone" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="323" name="spe_skill_1564" I_12="0">
+    <Line Text="Pretty Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="324" name="spe_skill_1570" I_12="0">
+    <Line Text="Final Flash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="325" name="spe_skill_1571" I_12="0">
+    <Line Text="Final Blow" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="326" name="spe_skill_1572" I_12="0">
+    <Line Text="Atomic Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="327" name="spe_skill_1573" I_12="0">
+    <Line Text="Final Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="328" name="spe_skill_1580" I_12="0">
+    <Line Text="Blazing Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="329" name="spe_skill_1581" I_12="0">
+    <Line Text="Burst Stinger" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="330" name="spe_skill_1582" I_12="0">
+    <Line Text="Raid Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="331" name="spe_skill_1583" I_12="0">
+    <Line Text="Blazing Attack" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="333" name="spe_skill_1584" I_12="0">
+    <Line Text="Burst Stinger" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="334" name="spe_skill_1585" I_12="0">
+    <Line Text="Raid Blast" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="335" name="spe_skill_0730" I_12="0">
+    <Line Text="Dynamite Kick" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="407" name="spe_skill_0731" I_12="0">
+    <Line Text="Rolling Hercule Punch" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="336" name="spe_skill_0144" I_12="0">
+    <Line Text="Saibabeam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="337" name="spe_skill_0143" I_12="0">
+    <Line Text="Acid" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="338" name="spe_skill_1100" I_12="0">
+    <Line Text="Flash Chaser" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="363" name="spe_skill_1101" I_12="0">
+    <Line Text="Dragon Blitz" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="339" name="spe_skill_1102" I_12="0">
+    <Line Text="Super Dragon Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="340" name="spe_skill_1103" I_12="0">
+    <Line Text="Super God Fist" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="341" name="spe_skill_1104" I_12="0">
+    <Line Text="Angry Hit" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="342" name="spe_skill_1105" I_12="0">
+    <Line Text="Energy Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="406" name="spe_skill_1110" I_12="0">
+    <Line Text="Total Detonation Ball" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="344" name="spe_skill_1111" I_12="0">
+    <Line Text="Savory Slicer" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="345" name="spe_skill_1112" I_12="0">
+    <Line Text="Photon Swipe" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="346" name="spe_skill_1113" I_12="0">
+    <Line Text="Majin Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="347" name="spe_skill_1120" I_12="0">
+    <Line Text="Kairos Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="348" name="spe_skill_1121" I_12="0">
+    <Line Text="Temporal Holy Ray" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="349" name="spe_skill_1122" I_12="0">
+    <Line Text="Holy Inscription" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="353" name="spe_skill_1123" I_12="0">
+    <Line Text="Maximum Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="354" name="spe_skill_1514" I_12="0">
+    <Line Text="Divine Kamehameha" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="355" name="spe_skill_1492" I_12="0">
+    <Line Text="Power Impact" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="356" name="spe_skill_0283" I_12="0">
+    <Line Text="Smile Charge" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="357" name="spe_skill_0403" I_12="0">
+    <Line Text="Gigantic Slam" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="358" name="spe_skill_0017" I_12="0">
+    <Line Text="Riot Javelin" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="359" name="spe_skill_0266" I_12="0">
+    <Line Text="Shining Slash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="360" name="spe_skill_0267" I_12="0">
+    <Line Text="Burning Slash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="361" name="spe_skill_1130" I_12="0">
+    <Line Text="Burning Shot" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="426" name="spe_skill_1131" I_12="0">
+    <Line Text="Hyper Tornado" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="374" name="spe_skill_1140" I_12="0">
+    <Line Text="Destructive Flare" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="375" name="spe_skill_1141" I_12="0">
+    <Line Text="Destructive Fracture" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="376" name="spe_skill_1142" I_12="0">
+    <Line Text="Destructive Fracture" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="377" name="spe_skill_0154" I_12="0">
+    <Line Text="Arm Crash" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="378" name="spe_skill_1151" I_12="0">
+    <Line Text="Impact Flare" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="379" name="spe_skill_1160" I_12="0">
+    <Line Text="Comet Strike" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="380" name="spe_skill_1170" I_12="0">
+    <Line Text="Crush Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="381" name="spe_skill_1171" I_12="0">
+    <Line Text="Double Crush" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="382" name="spe_skill_1180" I_12="0">
+    <Line Text="Blaster Cannon" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="383" name="spe_skill_1181" I_12="0">
+    <Line Text="Blaster Bomb" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="384" name="spe_skill_1202" I_12="0">
+    <Line Text="Punisher Drive" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="385" name="spe_skill_1554" I_12="0">
+    <Line Text="Gigantic Rage" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="386" name="spe_skill_0882" I_12="0">
+    <Line Text="Rakshasa&amp;apos;s Claw" NumVars="0" />
+  </Msg_Entry>
+  <Msg_Entry ID="387" name="spe_skill_1152" I_12="0">
+    <Line Text="Full Power Energy Wave" NumVars="0" />
+  </Msg_Entry>
+</MSG>
