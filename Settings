@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <UpdateNotifications>True</UpdateNotifications>
+  <MaxBackups>25</MaxBackups>
+  <SkippedGameDir>False</SkippedGameDir>
+  <GameDirectory>D:\Dragon Ball Xenoverse 2</GameDirectory>
+  <HC_IgnoreFigureLevelLimits>False</HC_IgnoreFigureLevelLimits>
+  <DontShowQuestWarning>False</DontShowQuestWarning>
+</Settings>
